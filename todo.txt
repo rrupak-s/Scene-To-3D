@@ -1,0 +1,9 @@
+1. calculate instrinsic parameter (checkboard method or others) ///
+2. click 2d images form different viewpoints (overlaping images around 60 % to 70 %)///
+3. calculate feature points form each images (ORB or SIFT)///
+4. feature matching ///
+5. find essential matrix from the matched features
+6. decomopse essential matrix into R and T matrices
+7. convert relative matrices into global matrices
+8. triangulation to generate 3d 
+9. bundle adjustment (refinement)
